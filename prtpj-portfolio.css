@@ -1,0 +1,27 @@
+body{
+    background-color: #111D4A;
+    color: #ADB9EB;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+strong, em {
+    color: #7C90DF;
+}
+
+.links{
+    color: white;
+}
+
+.draw{
+    font-size: 25px;
+}
+.pastry{
+    font-size: 20px;
+}
+
+#about{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
