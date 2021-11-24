@@ -1,0 +1,60 @@
+body {
+  background-color: #111d4a;
+  color: #adb9eb;
+  padding: 10px 30px;
+}
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+strong,
+em {
+  color: #7c90df;
+}
+ul:hover li:nth-child(odd) {
+  font-weight: bolder;
+  font-family: Calibri, sans-serif;
+  width: 15%;
+}
+.img-cont {
+  position: relative;
+  height: 300px;
+}
+.links {
+  color: white;
+}
+.otherskills {
+  font-size: 18px;
+}
+.proud {
+  font-size: 20px;
+}
+
+#about {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 20px;
+  position: absolute;
+  top: 50px;
+  left: 250px;
+}
+
+#paulopic {
+  border-radius: 50px 5px;
+  height: 294px;
+  float: left;
+  padding: 3px;
+  background-color: #080d21;
+}
+
+/*  
+  Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
+
+  A descrição deve ficar ao lado da foto;
+
+  Centralize seu nome na página;
+
+  Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
+
+  Adicione margin e padding nos elementos que julgar necessário;
+
+  Coloque estilo somente nos itens ímpares da lista das suas habilidades. */
